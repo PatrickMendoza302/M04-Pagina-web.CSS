@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: darkturquoise;
+    color: #333;
+    margin: 20px;
+}
+
+article p {
+    color: rgb(255, 255, 255);
+}
+
+#Titulos {
+    width: 60vw;
+    margin: auto;
+    padding: 3em;
+    text-align: center;
+}
+
+.Logo {
+    width: 13cm;
+    height: auto;
+    border: 4px solid black;
+}
+
+.Pasatiempos {
+    
+    display: flex;
+    justify-content:space-around;
+    padding: 10px 1em 0em 1em;
+}
+
+.Hobbie {
+    border: 2px solid black;
+    width: fit-content;
+    height: auto;
+}
+
+header {
+    text-align: center;
+}
